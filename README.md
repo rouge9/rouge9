@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robel Gedamu
 
-## FULL STACK DEVELOPER
+## SOFTWARE DEVELOPER
 
 I am a web developer with over 4 years of experience in the industry. I have a strong understanding of Reactjs, Tailwindcss, and PostgreSQL. I am also proficient in a variety of other web and app development technologies, including Nextjs, Flutter, Firebase, Supabase, Express.js and Node.js . I have honed my skills in front-end development, back-end programming, and responsive design. I am a highly motivated and results-oriented individual with a passion for building high-quality landing pages, web applications and fully functional apps. I am also a team player and I am able to work effectively with others to achieve common goals.
 
