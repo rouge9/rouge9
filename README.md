@@ -2,7 +2,7 @@
 
 ## SOFTWARE DEVELOPER
 
-I am a web developer with over 4 years of experience in the industry. I have a strong understanding of Reactjs, Tailwindcss, and PostgreSQL. I am also proficient in a variety of other web and app development technologies, including Nextjs, Flutter, Firebase, Supabase, Express.js and Node.js . I have honed my skills in front-end development, back-end programming, and responsive design. I am a highly motivated and results-oriented individual with a passion for building high-quality landing pages, web applications and fully functional apps. I am also a team player and I am able to work effectively with others to achieve common goals.
+I am a web developer with over 5 years of experience in the industry. I have a strong understanding of Reactjs, Tailwindcss, and PostgreSQL. I am also proficient in a variety of other web and app development technologies, including Nextjs, Flutter, Firebase, Supabase, Express.js and Node.js . I have honed my skills in front-end development, back-end programming, and responsive design. I am a highly motivated and results-oriented individual with a passion for building high-quality landing pages, web applications and fully functional apps. I am also a team player and I am able to work effectively with others to achieve common goals.
 
 - 🌍  I'm based in Ethiopia
 - 🖥️  See my portfolio at [ALL ABOUT ME](https://portfolio-5n4.pages.dev/)
